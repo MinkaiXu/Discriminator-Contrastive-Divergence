@@ -1,0 +1,1 @@
+Put the models of CIFAR10, ImageNet, STL10 and inception here
