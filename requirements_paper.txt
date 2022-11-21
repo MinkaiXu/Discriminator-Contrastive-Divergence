@@ -1,5 +1,5 @@
 chainer==3.3.0
-tensorflow-gpu==1.2.0
+tensorflow-gpu==2.9.3
 numpy==1.11.1
 cython==0.27.2
 chainermn==1.1.0
